@@ -97,7 +97,7 @@ body{
     margin: 25px 0px 10px 15px;
     border: 2px solid rgb(184, 184, 241);
     height: 70px;
-    width: 34vw;
+    width: 31vw;
     float: left;
     background-color: #e1dddd;
 }
@@ -107,7 +107,7 @@ body{
     margin: 25px 15px 10px 0px;
     border: 2px solid rgb(184, 184, 241);
     height: 70px;
-    width: 34vw;
+    width: 31vw;
     float: right;
     background-color: #e1dddd;
 }
