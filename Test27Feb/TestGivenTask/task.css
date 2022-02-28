@@ -11,16 +11,16 @@ body{
 }
 .header-left{
     background-color: red;
-    padding: 170px 170px;
+    padding: 170px 150px;
 }
 .header-mid-top{
     background-color: yellow;
-    padding: 80px 350px;
+    padding: 80px 330px;
 }
 .header-mid-bottom{
     display: block;
     background-color: rgb(22, 111, 5);
-    padding: 80px 350px;
+    padding: 80px 330px;
 }
 .header-right{
     background-color: rgb(231, 119, 147);
@@ -52,5 +52,5 @@ body{
 }
 .footer-right{
     background-color: rgb(47, 47, 75);
-    padding: 140px 170px;
+    padding: 140px 150px;
 }
